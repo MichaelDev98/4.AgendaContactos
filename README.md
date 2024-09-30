@@ -32,4 +32,4 @@ Este es un proyecto de una libreta de contactos desarrollada en Android utilizan
 
 ## Elaborado por:
 
-- **Michael Alexander Corredor Castillo**
+- Michael Alexander Corredor Castillo
